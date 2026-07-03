@@ -43,4 +43,4 @@ Fork, add your ideas, and submit PRs.
 
 ---
 
-Created with Grok (xAI) • July 2026
+Created by Satoshi Nakamoto• 3 July 2026
